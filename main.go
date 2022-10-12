@@ -76,4 +76,6 @@ func main() {
 
 	log.Printf("Connected to DB %s successfully /n", dbname)
 
+	fmt.Println("hello")
+
 }
